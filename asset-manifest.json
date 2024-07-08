@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movie_hari/static/css/main.ccfd3975.css",
+    "main.js": "/movie_hari/static/js/main.53af645c.js",
+    "static/js/453.36e3b7fa.chunk.js": "/movie_hari/static/js/453.36e3b7fa.chunk.js",
+    "index.html": "/movie_hari/index.html",
+    "static/media/search.svg": "/movie_hari/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.ccfd3975.css.map": "/movie_hari/static/css/main.ccfd3975.css.map",
+    "main.53af645c.js.map": "/movie_hari/static/js/main.53af645c.js.map",
+    "453.36e3b7fa.chunk.js.map": "/movie_hari/static/js/453.36e3b7fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfd3975.css",
+    "static/js/main.53af645c.js"
+  ]
+}
